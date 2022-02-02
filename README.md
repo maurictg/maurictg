@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
   - Telegram ([t.me/maurict](https://t.me/maurict), please include "via github" in your message so I know you are not spamming)
   - Email ([maurict@pm.me](mailto:maurict@pm.me), but I hardly ever look on it so use Telegram if you need me)
-  - Private email (visible in profile when you are logged in)
+  - Preferred: Private email (visible in profile when you are logged in)
 
 ---
 
