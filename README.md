@@ -8,9 +8,3 @@
   - Telegram ([t.me/maurict](https://t.me/maurict), please include "via github" in your message so I know you are not spamming)
   - Email ([maurict@pm.me](mailto:maurict@pm.me), but I hardly ever look on it so use Telegram if you need me)
   - Preferred: Private email (visible in profile when you are logged in)
-
----
-
-| Stats | Languages  |
-|---|---|
-| [![maurictg github stats](https://github-readme-stats.vercel.app/api?username=maurictg&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) | [![maurictg top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maurictg&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)|
